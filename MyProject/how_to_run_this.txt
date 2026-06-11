@@ -1,0 +1,7 @@
+steps to run file in cmd with "java compiler" : 
+=============================================
+
+step 1 - javac FileName.java
+step 2 - java FileName.java
+
+=============================================
